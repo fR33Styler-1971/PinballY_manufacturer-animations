@@ -9,3 +9,5 @@ Installation:
 3. Start PinballY enjoy
 
 *in my code there´s a workarround for Pinball FX3 & VPX Williams Logo usage at the same time
+
+More Details about virtual Pinball: https://www.dietle.de/status-report-project-vpin-self-made-virtual-pinnball/ 
